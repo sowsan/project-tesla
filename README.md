@@ -7,12 +7,14 @@ Reinforcement is a key to ABA (Applied Behavior Analysis) to reduce the occurren
 
 Adopted Azure serverless architecture for building a scalable prototype. A parent or a therpist could use a mobile app or a web browser to access the the application to start a therapy session with the child. All of the therapy session information stored in Azure Cosmos Db and data operations are implemented using Azure Function APIs. A wearable app used by the child can get the push notifications send via the Microsoft App Center push notification feature.
 
-High level architecture given below.
+A High level architecture used for the proof of concept is given below.
 
   <img src="https://github.com/sowsan/project-tesla/blob/master/Autism_Hack.jpg" width="350" alt="accessibility text">
 
 
 ## Repos
+All  of the artifacts used for the prototype architectures has been shared via its own repos below.
+
  - [Mobile App Repo](https://github.com/sowsan/project-tesla-mobile)
  - [Web App Repo](https://github.com/sowsan/project-tesla-web)
  - [Wearable App Repo](https://github.com/sowsan/project-tesla-wear)
