@@ -20,7 +20,7 @@ A High level architecture used for the proof of concept is given below.
  - Session data collection and analytics
     
 ## Repos
-All  of the artifacts used for the prototype architectures has been shared via its own repos below.
+All  of the artifacts used for the prototype architecture can be found in respective repos below.
 
  - [Mobile App Repo](https://github.com/sowsan/project-tesla-mobile)
  - [Web App Repo](https://github.com/sowsan/project-tesla-web)
