@@ -1,11 +1,13 @@
 # Project Tesla (Token Economy System Learning Application)
 
 ## Overview
-DevOps is a journey not a destination. Our goal when writing this challenged based hack is to introduce you to the Azure DevOps tooling and some common DevOps practices. We also understand that your choice of programming language and DevOps processes might differ from the ones we will be using in this hack, that is OK. Our intent was to select some of the most common programming languages and highlight industry best practices, with an emphasis on showing how Azure DevOps can help you on your DevOps journey, so that you can apply this in your environment with the languages and tools that you use.
+Reinforcement is a key to ABA (Applied Behavior Analysis) to reduce the occurrence of disruptive behaviors in order to increase skill acquisition. It is frequently used in natural environments as well by parents, but can be challenging to deliver and even harder to track. One use case is to use a wearable device to communicate with the subject on rewards during common activities. For example, a child is in Karate class, frequent self-stimulatory behavior, such as tightening his belt, staring in the mirror, or winking at the lights, causes him to miss instructions. Through a wearable a parent or therapist could grant tokens, or take away token using a mobile device and wearable. The data could be saved to show progress. The backend token platform could be used broadly and even be linked to rewards. For example, earning 10 minutes of computer time.
 
 ## Prototype Architecture
 
-Use Azure Serverless architecture for the backend APIs
+Adopted Azure serverless architecture for building a scalable prototype. A parent or a therpist could use a mobile app or a web browser to access the the application to start a therapy session with the child. All of the therapy session information stored in Azure Cosmos Db and data operations are implemented using Azure Function APIs. A wearable app used by the child can get the push notifications send via the Microsoft App Center push notification feature.
+
+High level architecture given below.
 
   <img src="https://github.com/sowsan/project-tesla/blob/master/Autism_Hack.jpg" width="350" alt="accessibility text">
 
