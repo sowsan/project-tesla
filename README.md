@@ -11,7 +11,14 @@ A High level architecture used for the proof of concept is given below.
 
   <img src="https://github.com/sowsan/project-tesla/blob/master/Autism_Hack.jpg" width="350" alt="accessibility text">
 
-
+## Features
+ - Child onboarding
+ - Child therapy session management
+    - Reward based reinforcement
+ - Child behavior observation
+    - Token management for desired and undesired behavior via a wearable device 
+ - Session data collection and analytics
+    
 ## Repos
 All  of the artifacts used for the prototype architectures has been shared via its own repos below.
 
